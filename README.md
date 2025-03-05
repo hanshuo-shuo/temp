@@ -38,10 +38,3 @@ on 19_09
 
 
 
-![image](https://github.com/user-attachments/assets/74d98ff8-a398-4a65-b39c-5c8a49fe20e6)
-
-
-![image](https://github.com/user-attachments/assets/fe30ac96-9ef9-4ae2-bea2-c437395d99d2)
-
-
-
