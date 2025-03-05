@@ -1,4 +1,3 @@
-<img width="435" alt="image" src="https://github.com/user-attachments/assets/965290ac-31c4-41b7-b859-a299e9351973" />
 
 
 On 21_05 
@@ -9,7 +8,35 @@ On 21_05
 ![image](https://github.com/user-attachments/assets/b41f352b-f8ed-40ca-89d0-5e8c08778f36)
 
 
+![image](https://github.com/user-attachments/assets/8101bbd7-e136-4614-89ae-c33b8604b3e2)
+
+![image](https://github.com/user-attachments/assets/74d59988-f562-40b3-9337-f8bfa400f8ec)
+
+![image](https://github.com/user-attachments/assets/2f754bf0-779f-4b30-bba7-caee09f6b7f3)
+
+![image](https://github.com/user-attachments/assets/9e22e5ed-4023-4c71-8263-545deaa0eef9)
+
+
+
+
+
+
 on 19_09 
+
+
+
+![image](https://github.com/user-attachments/assets/72e02f3d-4066-4119-af34-9fa89cf8608c)
+
+![image](https://github.com/user-attachments/assets/3034c0ec-ab0e-4769-ac2b-39088007982e)
+
+
+![image](https://github.com/user-attachments/assets/de582795-a986-468d-a2e6-33708971045b)
+
+![image](https://github.com/user-attachments/assets/52aa1215-3756-4480-8d0a-12f5f12cea1c)
+
+
+
+
 
 ![image](https://github.com/user-attachments/assets/74d98ff8-a398-4a65-b39c-5c8a49fe20e6)
 
@@ -18,25 +45,3 @@ on 19_09
 
 
 
-Here’s a more formal, math-heavy version suitable for a PowerPoint slide:  
-
----
-
-### **Markov Decision Process (MDP)**  
-*Foundation of Q-Learning*  
-
-An MDP is defined by the tuple **\( M = (S, A, P, r, \gamma) \)**, where:  
-
-- **\( S \)**: A finite set of states.  
-- **\( A \)**: A finite set of actions.  
-- **\( P: S \times A \to \Delta(S) \)**: A probability transition function, where  
-  \[
-  P(s' \mid s, a) = \Pr(S_{t+1} = s' \mid S_t = s, A_t = a)
-  \]  
-  represents the probability of transitioning to state \( s' \) given state \( s \) and action \( a \).  
-- **\( r: S \times A \to [0,1] \)**: A reward function that defines the immediate reward \( r(s, a) \) for taking action \( a \) in state \( s \).  
-- **\( \gamma \in (0,1) \)**: A discount factor that determines the present value of future rewards, ensuring convergence of the value function.  
-
-
-
-This version keeps the formal mathematical notation while maintaining clarity for a PowerPoint slide. Let me know if you need modifications!
