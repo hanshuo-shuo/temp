@@ -12,9 +12,11 @@ On 21_05
 
 ![image](https://github.com/user-attachments/assets/2f754bf0-779f-4b30-bba7-caee09f6b7f3)
 
-![image](https://github.com/user-attachments/assets/74d59988-f562-40b3-9337-f8bfa400f8ec)
+![image](https://github.com/user-attachments/assets/bd08c2a4-9e2d-43e8-bb2f-9231ffec1ff5)
 
-![image](https://github.com/user-attachments/assets/9e22e5ed-4023-4c71-8263-545deaa0eef9)
+
+![image](https://github.com/user-attachments/assets/09a08e16-9cbc-4e3f-816a-1d1bd2da2c9d)
+
 
 
 
