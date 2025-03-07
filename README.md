@@ -36,7 +36,7 @@ on 19_09
 
 
 
-![image](https://github.com/user-attachments/assets/8c3f395c-4f03-4c84-91c8-71f1a6f43f93)
+![image](https://github.com/user-attachments/assets/e4b3a386-b8dd-4c0a-8e96-da9daa72f6bc)
 
 
 
